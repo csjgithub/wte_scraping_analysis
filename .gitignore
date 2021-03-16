@@ -137,3 +137,5 @@ db_config.py
 
 #Notebook experiments
 *.ipynb
+notebooks/GFG
+notebooks/get_all_thread_hrefs.ipynb
