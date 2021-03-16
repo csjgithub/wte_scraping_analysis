@@ -130,3 +130,10 @@ dmypy.json
 
 #DB login details
 db_config.py
+
+#Output files
+*.csv
+*.txt
+
+#Notebook experiments
+*.ipynb
